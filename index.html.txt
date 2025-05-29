@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Md Shafiqul Baten Sumon | Portfolio</title>
+</head>
+<body>
+  <h1>Welcome to My Portfolio</h1>
+  <p>I am a cybersecurity and networking specialist. This page will showcase my projects.</p>
+</body>
+</html>
